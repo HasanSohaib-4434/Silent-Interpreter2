@@ -4,7 +4,8 @@ Welcome to Silent Interpreter! This app allows you to upload an audio file, tran
 🌐 Access the App Online
 If you'd like to try the app directly, click on the link below:
 
-Silent Interpreter Streamlit App
+[Silent Interpreter Streamlit App
+](https://silent-interpreter.streamlit.app/)
 
 🖥️ Running the App in Google Colab
 To run the app in Google Colab and make modifications, follow these steps:
